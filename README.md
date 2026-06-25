@@ -68,4 +68,4 @@ LinkedIn: https://www.linkedin.com/in/omkar-khuntia-bb1661307
 
 ## Live Application
 
-Click here: https://wine-quality-prediction-kk93.onrender.com
+🔗 [Wine Quality Prediction App](https://wine-quality-prediction-kk93.onrender.com)
