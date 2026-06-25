@@ -1,4 +1,4 @@
-pandas 
+pandas
 notebook
 numpy
 scikit-learn
@@ -11,4 +11,5 @@ joblib
 types-PyYAML
 Flask
 Flask-Cors
+gunicorn
 -e .
