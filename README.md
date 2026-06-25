@@ -64,3 +64,8 @@ flask run
 Omkar Khuntia
 GitHub: https://github.com/omkar3456
 LinkedIn: https://www.linkedin.com/in/omkar-khuntia-bb1661307
+
+
+## Live Application
+
+Click here: https://wine-quality-prediction-kk93.onrender.com
